@@ -1,5 +1,13 @@
 # Sozluk
 Projede MongoDB , NodeJS , React ve React Native dillerini kullandım.
+
+
+Projenin Amacı: 
+Basit bir databse kurup o database den gerekli servisleri yazıp kullanarak veri çekmek ve göndermek.
+Gelen verileri ekranda liste halinde göstermek ve istenilen veriyi silmek veya degiştirmek.
+
+
+
 Projenin resimleri aşagıdadır.
 
 Web Sitesi
