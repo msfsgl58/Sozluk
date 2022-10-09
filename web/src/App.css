@@ -1,0 +1,49 @@
+.addButton-div{
+  display: flex;
+  flex-direction: row-reverse;
+  margin-left: 0.8%;
+  margin-top: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  display: flex;
+  width: 82.2%;
+  margin-top: 20px;
+}
+
+.edit-delete-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.container {
+  background-color: #81C784;
+}
+
+.App {
+  background-color: #66BB6A;
+}
+
+.notDataP {
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.notDataDiv {
+  height: 855px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
