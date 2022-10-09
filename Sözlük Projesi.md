@@ -1,4 +1,7 @@
 # Sozluk
+Projede MongoDB , NodeJS , React ve React Native dillerini kullandım.
+Projenin resimleri aşagıdadır.
+
 Web Sitesi
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/67833471/194768726-22911762-649b-4206-b7a5-302fd37070d0.PNG)
 ![Ekran Alıntısı2](https://user-images.githubusercontent.com/67833471/194768727-9c545c19-f8b4-44fc-8781-3ad75bd3998a.PNG)
